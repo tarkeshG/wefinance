@@ -1,5 +1,9 @@
 mountpoints:
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+  /:https://drive.google.com/drive/folders/1_O-oK_ZK2-z5VKPzqlfOLj0ZvCIRMEcx
+>>>>>>> f65cd47 (added fstab.yaml file to add G-Drive path for content authoring for EDS)
